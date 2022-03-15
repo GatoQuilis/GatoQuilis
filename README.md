@@ -1,4 +1,4 @@
-Franco Diaz Quilis
+Franco DQ
 
 Full Stack Developer Jr
 
